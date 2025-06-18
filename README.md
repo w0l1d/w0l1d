@@ -1,23 +1,95 @@
-<h1 align="center">Hi 👋, I'm AHDOUF Walid</h1>
-<h3 align="center">A passionate backend developer from Morroco</h3>
+# 👋 Hi, I’m Walid Ahdouf (w0l1d)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w0l1d&label=Profile%20views&color=0e75b6&style=flat" alt="w0l1d" /> </p>
+**Software Engineer | Java Backend Engineer**  
+Casablanca, Morocco  
+[Website](https://www.w0l1d.me) | [LinkedIn](https://www.linkedin.com/in/w0l1d/) | [GitHub](https://github.com/w0l1d)  
+_Email: ahdoufwalid@gmail.com_
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w0l1d" alt="w0l1d" /></a> </p>
+---
 
-- 📫 How to reach me **ahdoufwalid@gmail.com**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+Passionate about building robust backend systems and scalable solutions, I thrive on new challenges and continuous learning. I have strong expertise in Java, Spring Boot, AWS, and cloud-native development, with professional experience in the fintech sector developing payment solutions and integrating advanced security with Keycloak.
+
+I’m always looking for opportunities to expand my skills, collaborate, and contribute to innovative projects.
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages:** Java, TypeScript, JavaScript, Python, C/C++, PHP, SQL
+- **Frameworks:** Spring Boot, Next.js, Express.js, React, Angular, Flutter, Node.js, JavaFX, JEE
+- **Cloud & DevOps:** AWS, Docker, GitLab CI/CD, GitHub Actions
+- **Databases:** MySQL, PostgreSQL, Oracle PL/SQL, MongoDB, Redis, Neo4j, Firebase, PostGIS
+- **Tools:** Keycloak, Bash, Kafka, LaTeX
+
+---
+
+## 🌟 Featured Projects
+
+- [**TalibHub**](https://github.com/w0l1d/TalibHub)  
+  A social platform for students, featuring mentorship, internship offers, advanced profile search, and more.  
+  _Java, TypeScript, HTML_
+
+- [**keycloak-extensions**](https://github.com/w0l1d/keycloak-extensions)  
+  Custom Keycloak extensions for enhanced realm-level functionality, including TOTP validation endpoints.  
+  _Java, Keycloak_
+
+- [**maven-jdk-nodejs-docker**](https://github.com/w0l1d/maven-jdk-nodejs-docker)  
+  Dockerfiles for building images with Maven, JDK, and Node.js, supporting flexible development and CI/CD pipelines.
+
+- [**generic_chat_fr_llm_hf_fastapi**](https://github.com/w0l1d/generic_chat_fr_llm_hf_fastapi)  
+  A generic web API chat using Hugging Face LLMs to help students discover the best courses for their needs.  
+  _Python, FastAPI_
+
+- _See more projects at [github.com/w0l1d?tab=repositories](https://github.com/w0l1d?tab=repositories) (53+ repos)_
+
+---
+
+## 🎓 Education
+
+- **Engineering Degree, Software Engineering & Informatics Systems Integration**  
+  Faculty of Science and Technology - Mohammedia (2021-2024)
+
+- **Professional Bachelor, Development of Information and Communication Systems**  
+  Higher School of Technology - Meknes (2020-2021)
+
+- **DUT, Software Engineering**  
+  Higher School of Technology - Meknes (2018-2020)
+
+---
+
+## 🏅 Certifications
+
+- Building Scalable Java Microservices with Spring Boot and Spring Cloud
+- Open-Tech for Africa (INJAZ AL-Maghrib & IBM)
+- Working in a Digital World: Professional Skills
+
+---
+
+## 💬 Languages
+
+- Arabic (Native)
+- French (Professional)
+- English (Professional)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/w0l1d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="w0l1d" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=w0l1d&show_icons=true&theme=radical" alt="w0l1d's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w0l1d&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=w0l1d&show_icons=true&locale=en&layout=compact" alt="w0l1d" /></p>
+## ✨ Fun Fact
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=w0l1d&show_icons=true&locale=en" alt="w0l1d" /></p>
+I love tackling real-world problems with code and have a passion for building tools that empower others—whether it’s optimizing city taxi fleets or forecasting product demand for retailers.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w0l1d&" alt="w0l1d" /></p>
+---
 
+<!--
+🔗 _[See all repositories](https://github.com/search?q=user:w0l1d&sort=updated&order=desc&per_page=20)_ (You have 53+ public/private repositories. This README highlights the most recent.)
+-->
